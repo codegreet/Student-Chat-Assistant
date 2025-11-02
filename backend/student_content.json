@@ -1,0 +1,9 @@
+{
+  "topics": [
+    {"question": "What is Python?", "answer": "Python is a high-level, interpreted programming language."},
+    {"question": "What is HTML?", "answer": "HTML is a markup language used to create web pages."},
+    {"question": "What is JavaScript?", "answer": "JavaScript is a scripting language for web development."},
+    {"question": "What is Flask?", "answer": "Flask is a lightweight Python web framework."},
+    {"question": "What is a function?", "answer": "A function is a block of code that performs a specific task."}
+  ]
+}
