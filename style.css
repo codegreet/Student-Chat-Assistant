@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 20px; background-color: #f5f5f5; }
+h2 { text-align: center; }
+#chatbox { border: 1px solid #ccc; padding: 10px; height: 400px; overflow-y: auto; background-color: #fff; }
+#userInput { width: 75%; padding: 10px; }
+#sendBtn { padding: 10px; }
+.user { color: blue; margin: 5px 0; }
+.bot { color: green; margin: 5px 0; }
